@@ -1,6 +1,6 @@
-# list_view
+# Flutter App for Expense Calculator Without data logging
 
-A new Flutter project.
+this project have only runtime data logging
 
 ## Getting Started
 
